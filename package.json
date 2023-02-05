@@ -1,0 +1,24 @@
+{
+  "name": "karma-mocha-example",
+  "version": "1.0.0",
+  "description": "Example of setting up test automatation using Karma and Mocha",
+  "keywords": [
+    "javascript",
+    "karma",
+    "mocha",
+    "automation"
+  ],
+  "author": "",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "jsdom": "^21.1.0",
+    "pdfjs-dist": "^3.2.146"
+  }
+}
