@@ -1,15 +1,15 @@
 # pdfLoader
 Loading a pdf file using pdf.js
 
-To use this project, first clone the project using the git clone command
+To use this project, first clone the project using the `git clone https://github.com/ousmorez/pdfLoader.git` command
 
-Use npm i to install dependencies
+Use `npm i` to install dependencies
 
-Install serve npm using npm install --global serve
+Install serve npm using `npm install --global serve`
 
 Run the following command in a separate command prompt:
 
-serve -l 8080
+`serve -l 8080`
 
-open http://localhost:8080/ in a browser.
+open `http://localhost:8080/` in a browser.
 
