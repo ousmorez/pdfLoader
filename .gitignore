@@ -1,0 +1,21 @@
+# Bower dependency directory (https://bower.io/)
+bower_components
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+dist/
+lib/
+libs/
+build/
+# Dependency directories
+node_modules/
+jspm_packages/
+.vscode/
+.nyc_output/
+coverage/
+test-results.xml
+yarn-error.log
+yarn.lock
+package-lock.json
+.eslintcache
+npm-debug.log
+report/*
+.idea
